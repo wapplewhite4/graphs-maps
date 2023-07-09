@@ -1,6 +1,7 @@
 # graphs-maps
 A maps application which will calculate the shortest path between different points using various graph searching algorithms such as Dijkstra, A*, and BFS.
 
+This project was completed as part of the Advanced Data Structures certification through UC San Diego.
 
 Module 1:
 
