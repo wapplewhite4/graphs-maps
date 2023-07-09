@@ -24,7 +24,7 @@ Module 3:
 
         3: Compared outcomes of running both algorithms on test data.
 
-The ultimate goal of these modules was to understand the graph data structure and related topics such as the Traveling Salesperson problem, Hamiltonian graphs, and Eurlerian graphs. The goal was also to understand the differences between different searching algorithms for graphs. Between Dijkstra and A*, the A* algorithm ends up being superior due to the use of heuristics. While Dijkstra searches nearly every possible route and spends a lot of time doing this, the A* algorithm essentially makes an educated guess as to what route to pursue, and saves a lot of time with this strategy.
+The ultimate goal of these modules was to understand the graph data structure and related topics such as the Traveling Salesperson problem, Hamiltonian graphs, and Eulerian graphs. The goal was also to understand the differences between different searching algorithms for graphs. Between Dijkstra and A*, the A* algorithm ends up being superior due to the use of heuristics. While Dijkstra searches nearly every possible route and spends a lot of time doing this, the A* algorithm essentially makes an educated guess as to what route to pursue, and saves a lot of time with this strategy.
 
 Final Course Grade: 100%
 
