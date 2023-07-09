@@ -10,7 +10,7 @@ Module 1:
         
 Module 2:
 
-        1: Implemented class hierarchy to create nodes and edges for graph implementation. Implemented the MapNode and MapEdge classes.
+        1: Implemented class hierarchy to create nodes and edges for graph implementation. Created and implemented the MapNode and MapEdge classes.
 
         2: Implemented all methods tagged TODO in the MapGraph class (implemented the graph data structure.)
 
